@@ -1,0 +1,8 @@
+{
+	"name": "js_postgres",
+	"version": "0.0.1",
+	"dependencies": {
+		"q": "2.0.3",
+		"pg-promise": "5.5.0"
+	}
+}
