@@ -14,6 +14,6 @@ db.any("select * from users", [true])
 		console.log(data);
 	})
 	.catch(function(error) {
-		console.log(erro);
+		console.log(error);
 	})
 	.done();
