@@ -17,3 +17,4 @@ db.any("select * from users", [true])
 		console.log(error);
 	})
 	.done();
+pg_promise.end();
